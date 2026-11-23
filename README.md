@@ -9,6 +9,7 @@
 [**Paper (PDF)**](paper/Sharma_JCrew_Blockers_2026.pdf) &nbsp;·&nbsp; [Methods](docs/METHODS.md) &nbsp;·&nbsp; [Data dictionary](docs/DATA.md) &nbsp;·&nbsp; [Pre-registration ledger](docs/PREREGISTRATION.md) &nbsp;·&nbsp; [Challenge a call](docs/AUDIT.md)
 
 [![reproduce](https://github.com/saurav0369/jcrew-blockers/actions/workflows/reproduce.yml/badge.svg)](https://github.com/saurav0369/jcrew-blockers/actions/workflows/reproduce.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24480033.svg)](https://doi.org/10.5281/zenodo.24480033)
 ![python](https://img.shields.io/badge/python-standard%20library%20only-3776ab)
 ![code](https://img.shields.io/badge/code-MIT-555)
 ![data](https://img.shields.io/badge/data-CC%20BY%204.0-555)
@@ -161,7 +162,8 @@ Every one of the 91 rows quotes its clause and links to the filing on SEC EDGAR,
   title       = {Do {J.Crew} Blockers Block? {A} Backtest of 91 Credit Agreements Against Eleven Real Dropdowns},
   institution = {Working paper},
   year        = {2026},
-  url         = {https://github.com/saurav0369/jcrew-blockers}
+  doi         = {10.5281/zenodo.24480033},
+  url         = {https://doi.org/10.5281/zenodo.24480033}
 }
 ```
 
