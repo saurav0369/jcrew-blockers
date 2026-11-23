@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/main.pdf
