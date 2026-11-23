@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Review the 20-contract audit sheet
+    url: https://github.com/saurav0369/jcrew-blockers/blob/main/docs/AUDIT.md
+    about: Practitioners willing to check the coding against the filings.

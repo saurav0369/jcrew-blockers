@@ -1,0 +1,35 @@
+name: Challenge a coding call
+description: You read a blocker clause or a dropdown differently from how it is coded.
+title: "[call] B__ : "
+labels: ["coding-challenge"]
+body:
+  - type: input
+    id: row
+    attributes:
+      label: Row id
+      description: B01–B91 for a blocker, or the event name for a dropdown.
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Field you dispute
+      options: [covers_nonguarantor_subs, covers_outside_group, assets, materiality_decided_by, covers_exclusive_licences, sacred_right, subordination_sacred, stack provision, dropdown route or assets, other]
+    validations:
+      required: true
+  - type: textarea
+    id: clause
+    attributes:
+      label: Clause text you rely on
+      description: Quote the words from the filing, with the section number.
+    validations:
+      required: true
+  - type: textarea
+    id: reading
+    attributes:
+      label: Your reading
+  - type: input
+    id: background
+    attributes:
+      label: Your background (optional)
+      description: e.g. leveraged finance associate, restructuring analyst
