@@ -1,0 +1,102 @@
+W4 | 0000788965 | HALLADOR ENERGY CO
+W4 | 0001570827 | Victory Capital Holdings Inc.
+W4 | 0001437107 | Warner Bros. Discovery Inc.
+W4 | 0002015845 | Everus Construction Group Inc.
+W4 | 0001159152 | James Hardie Industries plc
+W4 | 0000096943 | TELEFLEX INC
+W4 | 0001520262 | Alkermes plc.
+W4 | 0001743759 | Corsair Gaming Inc.
+W4 | 0001856430 | Snap One Holdings Corp.
+W4 | 0001909849 | Garden SpinCo Corp
+W4 | 0001556739 | Thryv Holdings Inc.
+W4 | 0001751143 | ATLAS TECHNICAL CONSULTANTS INC.
+W4 | 0001831651 | Shoals Technologies Group Inc.
+W4 | 0001752797 | iCIMS Holding LLC
+W4 | 0001013934 | Strategic Education Inc.
+W4 | 0001883685 | DraftKings Inc.
+W4 | 0001833197 | Latham Group Inc.
+W4 | 0001955520 | Knife River Corp
+W4 | 0001579684 | Gannett Co. Inc.
+W4 | 0001740332 | RESIDEO TECHNOLOGIES INC.
+W4 | 0001898496 | Getty Images Holdings Inc.
+W4 | 0000866273 | MATRIX SERVICE CO
+W4 | 0001494259 | CarGurus Inc.
+W4 | 0001723089 | ChampionX Corp
+W4 | 0001838615 | AlTi Global Inc.
+W4 | 0001364479 | HERC HOLDINGS INC
+W4 | 0001459417 | 2U Inc.
+W4 | 0001058623 | CUMULUS MEDIA INC
+W4 | 0000913142 | BELDEN INC.
+W4 | 0001318568 | Everi Holdings Inc.
+W4 | 0001828161 | FTC Solar Inc.
+W4 | 0001524025 | TILLY'S INC.
+W4 | 0001874944 | Vacasa Inc.
+W4 | 0000832988 | SIGNET JEWELERS LTD
+W4 | 0001023024 | ANI PHARMACEUTICALS INC
+W4 | 0000025445 | Crane NXT Co.
+W4 | 0000039911 | GAP INC
+W4 | 0000849869 | SILGAN HOLDINGS INC
+W4 | 0001023313 | FORRESTER RESEARCH INC.
+W4 | 0001073429 | U.S. CONCRETE INC.
+W4 | 0001874848 | Milan Laser Inc.
+W4 | 0001967649 | Vestis Corp
+W4 | 0001579091 | Maplebear Inc.
+W4 | 0001770450 | Xerox Holdings Corp
+W4 | 0001863105 | EngageSmart Inc.
+W4 | 0001898718 | GMR Solutions Inc.
+W4 | 0001800347 | E2open Parent Holdings Inc.
+W4 | 0001013871 | NRG ENERGY INC.
+W4 | 0001575515 | Sprouts Farmers Market Inc.
+W4 | 0000067215 | DYCOM INDUSTRIES INC
+W4 | 0000007332 | SOUTHWESTERN ENERGY CO
+W4 | 0001834622 | Hayward Holdings Inc.
+W4 | 0001012100 | SEALED AIR CORP/DE
+W4 | 0000919012 | AMERICAN EAGLE OUTFITTERS INC
+W4 | 0001048477 | BIOMARIN PHARMACEUTICAL INC
+W4 | 0001624794 | CSW INDUSTRIALS INC.
+W4 | 0001597033 | Sabre Corp
+W4 | 0001293282 | TechTarget Inc
+W4 | 0001337619 | ENVESTNET INC.
+W4 | 0000314808 | Valaris Ltd
+W4 | 0001800682 | Cano Health Inc.
+W4 | 0000908937 | SIRIUS XM HOLDINGS INC.
+W4 | 0001791100 | Cole Haan Inc.
+W4 | 0001610950 | Syneos Health Inc.
+W4 | 0001839439 | PAYCOR HCM INC.
+W4 | 0001820721 | Array Technologies Inc.
+W4 | 0000776867 | WHITE MOUNTAINS INSURANCE GROUP LTD
+W3 | name only | Consolidated Communications
+W3 | name only | Target Hospitality
+W3 | name only | Gibraltar
+W3 | name only | Chesapeake
+W3 | name only | Addus
+W3 | name only | Celsius
+W3 | name only | Liberty Media
+W3 | name only | SoFi
+W3 | name only | European Wax
+W3 | name only | Extreme Networks
+W3 | name only | Advantage Solutions
+W3 | name only | Progress Software
+W3 | name only | Golden Entertainment
+W3 | name only | Encore
+W3 | name only | Hovnanian
+W3 | name only | Petco
+W3 | name only | Skechers
+W3 | name only | Forgent
+W3 | name only | Covista
+W3 | name only | MultiPlan
+W3 | name only | Embecta
+W3 | name only | Yellowstone Midco
+W3 | name only | Custom Truck
+W3 | name only | Standard Motor Products
+W3 | name only | Carriage Services
+W3 | name only | McGraw Hill
+W3 | name only | PGT
+W3 | name only | R1 RCM
+W3 | name only | Constellium
+W3 | name only | Avanos
+W3 | name only | Uniti
+W3 | name only | FIS
+W3 | name only | SOLV Energy
+W3 | name only | KLDiscovery
+W3 | name only | SailPoint

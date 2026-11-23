@@ -1,0 +1,52 @@
+line,cik,company,doc_id,reaches_R,reaches_N,asset_scope,confidence,quote
+1,0000788965,HALLADOR ENERGY CO,0001628280-26-072347:hnrg-20260930xex101.htm,YES,YES,IP_PLUS,med,"no Loan Party shall Dispose of any Gas Turbine, Material Project Document, material Permit relating to the Project, Material Intellectual Property of any Turtle Creek Entity"
+2,0001570827,Victory Capital Holdings Inc.,0001193125-25-218521:vctr-ex10_1.htm,NO,NO,IP_ONLY,high,
+3,0001437107,Warner Bros. Discovery Inc.,0001193125-26-256559:d11897dex101.htm,YES,NO,IP_PLUS,med,"shall not permit the Loan Parties to transfer ... any Material Intellectual Property ... to Restricted Subsidiaries that are not Loan Parties"
+4,0002015845,Everus Construction Group Inc.,0001140361-24-044886:ef20037700_ex10-4.htm,NO,NO,IP_ONLY,high,
+5,0001159152,James Hardie Industries plc,0001159152-26-000045:jhx10-k2026ex1067.htm,NO,NO,IP_ONLY,high,
+6,0000096943,TELEFLEX INC,0001193125-22-282591:d535030dex101.htm,NO,NO,IP_ONLY,high,
+7,0001520262,Alkermes plc.,0001564590-21-021144:alks-ex101_281.htm,NONE,NONE,NONE,high,NOTE: only one reference to material IP (a reporting covenant); no transfer blocker found
+8,0001743759,Corsair Gaming Inc.,0001193125-20-227100:d507744dex106b.htm,NO,NO,IP_ONLY,high,
+9,0001856430,Snap One Holdings Corp.,0001856430-21-000031:snapone-creditagreementexe.htm,NO,NO,IP_ONLY,high,
+10,0001909849,Garden SpinCo Corp,0001140361-22-027159:ny20003153x13_ex10-9.htm,NO,NO,IP_ONLY,med,NOTE: sec 7.5(c) and 7.8 allow IP Dispositions to Unrestricted Subsidiaries that effect an Investment permitted under 7.8(ee)
+11,0001556739,Thryv Holdings Inc.,0001556739-24-000025:exhibit101-thryvxtermloa.htm,YES,NO,IP_PLUS,med,"no Credit Party shall make an Investment or other transfer of Material Intellectual Property to any Non-Guarantor Subsidiary"
+12,0001751143,ATLAS TECHNICAL CONSULTANTS INC.,NONE_FOUND,UNREADABLE,UNREADABLE,UNREADABLE,low,NOTE: EX-10 full-text search returned no hit for this CIK
+13,0001831651,Shoals Technologies Group Inc.,0001193125-20-329920:d801436dex101.htm,YES,NO,IP_ONLY,high,"to any Unrestricted Subsidiary or any Restricted Subsidiary that is not a Loan Party"
+14,0001752797,iCIMS Holding LLC,0001193125-21-251454:d28493dex102.htm,NO,NO,IP_ONLY,low,NOTE: designation restriction only; no transfer ban found
+15,0001013934,Strategic Education Inc.,0001013934-24-000027:stra-20240930xex101.htm,NO,NO,IP_ONLY,high,
+16,0001883685,DraftKings Inc.,0001104659-24-115572:tm2427766d1_ex10-1.htm,NO,NO,IP_ONLY,high,
+17,0001833197,Latham Group Inc.,0001104659-22-026118:tm227460d1_ex10-1.htm,NO,NO,IP_ONLY,high,
+18,0001955520,Knife River Corp,0001140361-23-027662:ny20009261x1_ex10-4.htm,NO,NO,IP_ONLY,high,
+19,0001579684,Gannett Co. Inc.,0001140361-24-043565:ef20037312_ex10-1.htm,YES,NO,IP_PLUS,high,"no Loan Party may transfer (by means of Investment, Asset Sale, Restricted Payment or otherwise) any Material Assets to any other Subsidiary that is not a Loan Party"
+20,0001740332,RESIDEO TECHNOLOGIES INC.,NONE_FOUND,UNREADABLE,UNREADABLE,UNREADABLE,low,NOTE: EX-10 full-text search returned no hit for this CIK
+21,0001898496,Getty Images Holdings Inc.,0001628280-26-018160:exhibit105-fourthamendment.htm,NO,NO,IP_ONLY,high,
+22,0000866273,MATRIX SERVICE CO,0000866273-21-000088:exhibit1019-creditagreemen.htm,NO,NO,IP_PLUS,med,NOTE: designation condition also bars transfers of other assets necessary for the business of the Loan Parties; transfer ban itself names Unrestricted only
+23,0001494259,CarGurus Inc.,0000950170-22-019045:carg-ex10_1.htm,YES,NO,IP_ONLY,med,"no Loan Party shall transfer any owned Material Intellectual Property to a Non-Loan Party Subsidiary"
+24,0001723089,ChampionX Corp,0001723089-22-000119:championx-restatementagree.htm,NO,NO,IP_ONLY,high,
+25,0001838615,AlTi Global Inc.,0001628280-26-066398:alti-creditagreementexec.htm,NO,NO,IP_PLUS,high,
+26,0001364479,HERC HOLDINGS INC,0001193125-22-190517:d322240dex101.htm,NO,NO,IP_ONLY,low,NOTE: designation condition only; no transfer ban found
+27,0001459417,2U Inc.,0001104659-20-079680:tm2023770d1_ex10-1.htm,YES,YES,IP_ONLY,high,"in no event will any Loan Party ... contribute any material Intellectual Property to any non-Loan Party"
+28,0001058623,CUMULUS MEDIA INC,0001104659-24-049120:tm2412039d1_ex10-1.htm,YES,NO,IP_PLUS,low,"sell, transfer or otherwise dispose of any Material Intellectual Property or any other assets ... to any Subsidiary that is not an Issuer or a Guarantor"
+29,0000913142,Belden Inc.,0000913142-26-000029:termloancreditagreement.htm,NO,NO,IP_ONLY,high,
+30,0001318568,Everi Holdings Inc.,0001318568-20-000082:newdebtex102.htm,NO,NO,IP_ONLY,med,NOTE: designation condition; no Material IP may be transferred to or held by any Unrestricted Subsidiary
+31,0001828161,FTC Solar Inc.,0001140361-21-015526:nt10018987x16_ex10-2.htm,YES,NO,IP_ONLY,med,"in no event shall any Excluded Subsidiary (x) own any Material Intellectual Property"
+32,0001524025,TILLY'S INC.,0001193125-20-294753:d88750dex101.htm,NONE,NONE,NONE,med,NOTE: IP transfers permitted to any transferee that grants a non-exclusive license to the Agent; conditional, not a bar
+33,0001874944,Vacasa Inc.,0001874944-24-000076:exhibit101-amendmentno3ton.htm,YES,NO,IP_ONLY,med,"sell, transfer or otherwise dispose of any Material Intellectual Property ... to any Subsidiary that is not a Loan Party"
+34,0000832988,SIGNET JEWELERS LTD,0000832988-21-000179:fy22ex1018x3x21secondamend.htm,NONE,NONE,NONE,med,NOTE: transfers of Material IP to a non-Loan Party must be subject to the ABL License; conditional, not a bar
+35,0001023024,ANI PHARMACEUTICALS INC,0001104659-21-143748:tm2133555d1_ex10-1.htm,NO,NO,IP_PLUS,med,NOTE: designation condition bars Unrestricted Subsidiaries from owning Material IP or other property necessary for the business
+36,0000025445,Crane NXT Co.,0001193125-23-074898:d485992dex101.htm,NONE,NONE,NONE,low,NOTE: exhibit is a Security Agreement; no blocker found in it; credit agreement not located
+37,0000039911,GAP INC,0000039911-21-000108:exhibit102.htm,YES,YES,IP_ONLY,med,"no Restricted Payment or Investment (other than an Investment in Parent Borrower or another Loan Party) of material intellectual property"
+38,0000849869,SILGAN HOLDINGS INC,0001193125-26-425515:d188463dex104.htm,NO,NO,IP_ONLY,med,NOTE: exhibit is a term sheet; carve-out allows certain exclusive licenses to Unrestricted Subsidiaries
+39,0001023313,FORRESTER RESEARCH INC.,0001193125-21-364985:d270867dex101.htm,NO,NO,IP_ONLY,high,
+40,0001073429,U.S. CONCRETE INC.,0001193125-21-200351:d12440dex102.htm,NO,YES,IP_ONLY,low,"such Investment shall not include any sale, disposition, transfer or exclusive license of any material Intellectual Property"
+41,0001874848,Milan Laser Inc.,0001104659-21-126590:tm2123162d5_ex10-5.htm,NO,NO,IP_ONLY,med,NOTE: transfer ban to Unrestricted Subsidiaries is limited to transfers made as an Investment
+42,0001967649,Vestis Corp,0001628280-23-033362:exhibit105-vestisclosing8xk.htm,NO,NO,IP_ONLY,high,
+43,0001579091,Maplebear Inc.,0001579091-26-000032:exhibit101_creditagreement.htm,NO,NO,IP_ONLY,high,
+44,0001770450,Xerox Holdings Corp,0001193125-23-280007:d588006dex101.htm,NO,NO,IP_ONLY,high,
+45,0001863105,EngageSmart Inc.,0001193125-21-289855:d224020dex101.htm,NO,YES,IP_ONLY,med,"make any Asset Sale of Material Intellectual Property to the Borrower s direct or indirect equityholders"
+46,0001898718,GMR Solutions Inc.,0001104659-26-049674:tm2518736d11_ex10-28.htm,NO,NO,IP_ONLY,med,NOTE: transfer ban to Unrestricted Subsidiaries is limited to IP whose loss would prevent the business from operating
+47,0001800347,E2open Parent Holdings Inc.,0001104659-21-019902:tm215568d1_ex10-6.htm,YES,YES,IP_ONLY,high,"no Material Intellectual Property as of the Effective Date owned by any Loan Party may be contributed and/or assigned as an Investment or otherwise transferred to any non-Loan Party"
+48,0001013871,NRG ENERGY INC.,0001104659-26-008567:tm264311d1_ex10-1.htm,NO,NO,IP_ONLY,high,
+49,0001575515,Sprouts Farmers Market Inc.,0000950170-22-004681:sfm-ex10_1.htm,NO,NO,IP_ONLY,high,
+50,0000067215,DYCOM INDUSTRIES INC,0001193125-25-330970:d41994dex101.htm,NO,NO,IP_ONLY,high,
+51,0000007332,SOUTHWESTERN ENERGY CO,0001193125-21-365011:d265835dex101.htm,NO,NO,IP_ONLY,high,
