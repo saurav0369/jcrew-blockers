@@ -1,0 +1,15 @@
+event,year,assets_moved,what_moved,route,destination,lender_consent,in_test,source
+J.Crew,2016,IP,Trademarks (~$250M),R>U,"Non-guarantor sub, then unrestricted sub",Not shown,Included,https://www.sec.gov/Archives/edgar/data/1051251/000156459017012466/0001564590-17-012466.txt
+Travelport,2020,IP,IP valued ~$1.15B,U,Unrestricted subs,Not shown,Included,https://www.lockelord.com/newsandevents/publications/2020/05/locke-lord-quickstudy-travelport-puts-billion
+Revlon (American Crew),2019,IP,American Crew trademarks,R,New non-guarantor subsidiary,Not shown,Included,https://www.nysb.uscourts.gov/sites/default/files/opinions/314128_128_opinion.pdf
+Pluralsight,2024,IP,Intellectual property,R,Non-guarantor restricted sub,Not shown,Included,https://www.goodwinlaw.com/en/insights/publications/2024/08/alerts-privateequity-ma-pluralsight-change-of-control-transaction
+Xerox,2026,IP,Core IP incl. trademarks,N,Joint venture outside the group (IPCo),Not shown,Included,https://www.winston.com/en/insights-news/the-xerox-non-subsidiary-drop-down-financing-a-new-frontier-in-leakage-and-subordination
+Neiman Marcus,2018,Non-IP,MyTheresa business,U>N,"Unrestricted sub, then parent",Not shown,Included,https://www.kslaw.com/attachments/000/008/313/original/How_did_they_do_it_Neiman_Marcus.pdf
+PetSmart,2018,Non-IP,36.5% of Chewy equity,U+N,Unrestricted sub and sponsor,Not shown,Included,https://www.clearygottlieb.com/news-and-insights/publication-listing/latest-in-european-leveraged-finance-petsmart-barking-up-the-wrong-covenant-tree
+Bausch Health,2022,Non-IP,Holder of 88.7% of Bausch + Lomb,U,Unrestricted sub,Not shown,Included,https://ir.bauschhealth.com/news-releases/2022/11-29-2022
+Envision,2022,Non-IP,AmSurg surgical-center entities,U,Unrestricted subs,Not shown,Included,https://www.sidley.com/en/insights/newsupdates/2025/07/liability-management-transactions-with-nonloanparty-subsidiaries
+Trinseo,2023,Non-IP,50% Americas Styrenics JV stake (book $249M),N,Sister company outside the group,Not shown,Included,https://www.sec.gov/Archives/edgar/data/1519061/000110465923099167/tm2325668d1_ex10-1.htm
+Del Monte,2024,IP and non-IP,Substantially all assets,R>U,"Intermediate sub, then unrestricted sub",Not shown,Included,https://www.cadwalader.com/uploads/cfmemos/ac84291309dc75c7e2584f870515083b.pdf
+AMC,2024,IP and non-IP,175 theatres and the AMC brand,U,Unrestricted sub (Muvico),Majority lenders consented,Excluded: consent,https://www.sec.gov/Archives/edgar/data/1411579/000110465924081453/tm2419663d1_8k.htm
+STG Logistics,2024,IP and non-IP,Substantially all assets,U,Unrestricted subs,Majority lenders amended,Excluded: consent,https://www.mayerbrown.com/en/insights/publications/2026/02/new-york-court-draws-limits-to-encroachment-on-sacred-rights-in-stg-logistics
+Revlon (BrandCo),2020,IP,BrandCo IP,?,Not confirmed by two checkers,Disputed,Excluded: destination unverified,https://www.nysb.uscourts.gov/sites/default/files/opinions/314128_113_opinion.pdf
