@@ -1,0 +1,17 @@
+{
+  "_note": "Provisions found outside the coded J.Crew blocker clause, after hand-reading every scan window (F1 43, F2 40, F3 85, F4 24, F5 56). Agreements not listed gained nothing beyond their coded blocker.",
+  "extra_provisions": [
+    {"id": "B29", "family": "F1", "reaches": ["R"], "scope": "non_ip", "basis": "Investments and Dispositions by Loan Parties to non-Loan Party Subsidiaries capped at $5,000,000 unless ordinary course, bona fide and not for liability management purposes"},
+    {"id": "B45", "family": "F3", "reaches": ["U"], "scope": "substantially_all", "basis": "A Subsidiary may be designated Unrestricted only if it does not own or operate all or substantially all of the assets of the Borrower and its Subsidiaries"}
+  ],
+  "chewy_strong": ["B03", "B25", "B30", "B44", "B50", "B57", "B83", "B87"],
+  "chewy_weak": ["B06", "B08", "B14", "B17", "B20", "B32", "B40", "B46", "B61", "B62", "B78", "B80", "B89"],
+  "omni": [
+    {"id": "B25", "basis": "Post-LME exchange terms: Unrestricted Subsidiary concept removed (re-introduction a sacred right); non-guarantor and JV baskets capped and barred for any liability management transaction; J.Crew protection extended to all non-guarantors and material Collateral as a sacred right"}
+  ],
+  "not_counted": {
+    "B18": "Section 7.17 Priming Financing/Liability Management Transaction covers non-pro-rata uptier exchanges only, not dropdowns",
+    "B87": "Pluralsight Provision applies only if the primary purpose is new financing or lien release, as determined by the Borrower Representative (already coded R=YES from the blocker)",
+    "anti_subordination": "Sacred rights against payment or lien subordination are recorded in subordination_sacred and do not count as dropdown protection"
+  }
+}
