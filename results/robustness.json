@@ -1,0 +1,178 @@
+{
+ "wilson": {
+  "not_sacred": {
+   "k": 87,
+   "n": 91,
+   "pct": 96,
+   "ci95": [
+    89,
+    98
+   ]
+  },
+  "ip_only": {
+   "k": 79,
+   "n": 91,
+   "pct": 87,
+   "ci95": [
+    78,
+    92
+   ]
+  },
+  "no_outside": {
+   "k": 79,
+   "n": 91,
+   "pct": 87,
+   "ci95": [
+    78,
+    92
+   ]
+  },
+  "no_nonguarantor": {
+   "k": 63,
+   "n": 91,
+   "pct": 69,
+   "ci95": [
+    59,
+    78
+   ]
+  },
+  "no_excl": {
+   "k": 41,
+   "n": 89,
+   "pct": 46,
+   "ci95": [
+    36,
+    56
+   ]
+  },
+  "borrower_decides": {
+   "k": 26,
+   "n": 72,
+   "pct": 36,
+   "ci95": [
+    26,
+    48
+   ]
+  },
+  "sacred": {
+   "k": 4,
+   "n": 91,
+   "pct": 4,
+   "ci95": [
+    2,
+    11
+   ]
+  },
+  "sub_sacred": {
+   "k": 53,
+   "n": 91,
+   "pct": 58,
+   "ci95": [
+    48,
+    68
+   ]
+  }
+ },
+ "variants": {
+  "A. Clause level (baseline)": {
+   "median": 2,
+   "stop<=3": 58,
+   "stop_all": 3
+  },
+  "B. Clause level, non-IP coverage never counts": {
+   "median": 2,
+   "stop<=3": 63,
+   "stop_all": 0
+  },
+  "C. Whole agreement, strong Chewy (baseline)": {
+   "median": 2,
+   "stop<=3": 58,
+   "stop_all": 4
+  },
+  "D. Whole agreement, weak Chewy also counts": {
+   "median": 3,
+   "stop<=3": 58,
+   "stop_all": 4
+  }
+ },
+ "leave_one_out_median_range": [
+  1,
+  2
+ ],
+ "leave_one_out": [
+  [
+   "J.Crew",
+   1,
+   69
+  ],
+  [
+   "Travelport",
+   1,
+   69
+  ],
+  [
+   "Revlon (American Crew)",
+   2,
+   69
+  ],
+  [
+   "Pluralsight",
+   2,
+   69
+  ],
+  [
+   "Xerox",
+   2,
+   58
+  ],
+  [
+   "Neiman Marcus",
+   2,
+   58
+  ],
+  [
+   "PetSmart",
+   2,
+   58
+  ],
+  [
+   "Bausch Health",
+   2,
+   58
+  ],
+  [
+   "Envision",
+   2,
+   58
+  ],
+  [
+   "Trinseo",
+   2,
+   58
+  ],
+  [
+   "Del Monte",
+   2,
+   58
+  ]
+ ],
+ "other_nine": {
+  "events": 9,
+  "median": 0,
+  "stop_none": 52,
+  "stop_none_ci95": [
+   47,
+   67
+  ]
+ },
+ "bootstrap": {
+  "median_ci95": [
+   2,
+   3
+  ],
+  "share_le3_ci95": [
+   54,
+   74
+  ]
+ }
+}
