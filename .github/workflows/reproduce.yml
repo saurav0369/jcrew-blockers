@@ -1,0 +1,17 @@
+name: reproduce
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recompute every published number and check pre-registration fingerprints
+        run: python3 reproduce.py
+      - name: Failure control - a planted wrong number must make the check fail
+        run: |
+          sed -i 's/"stack: agreements stopping all": 4,/"stack: agreements stopping all": 5,/' reproduce.py
+          if python3 reproduce.py > /dev/null 2>&1; then echo "control did not fail"; exit 1; else echo "control failed as it should"; fi
+          git checkout reproduce.py
