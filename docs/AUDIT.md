@@ -1,6 +1,6 @@
 # Audit and corrections
 
-First-pass coding used language-model tools, and every call behind the numbers was checked by hand. It has **not yet been reviewed by a lawyer**. This page explains how to check it and how corrections are handled.
+First-pass coding used AI tools, and every call behind the numbers was checked by hand. It has **not yet been reviewed by a lawyer**. This page explains how to check it and how corrections are handled.
 
 ## Check a single call in about a minute
 

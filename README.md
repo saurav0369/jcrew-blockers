@@ -4,7 +4,7 @@
 
 ### A backtest of 91 credit agreements against eleven real dropdowns
 
-**Saurav Sharma** · Working paper, November 2026
+**Saurav Sharma** · [ORCID 0009-0009-7002-9865](https://orcid.org/0009-0009-7002-9865) · Working paper, November 2026
 
 [**Paper (PDF)**](paper/Sharma_JCrew_Blockers_2026.pdf) &nbsp;·&nbsp; [Methods](docs/METHODS.md) &nbsp;·&nbsp; [Data dictionary](docs/DATA.md) &nbsp;·&nbsp; [Pre-registration ledger](docs/PREREGISTRATION.md) &nbsp;·&nbsp; [Challenge a call](docs/AUDIT.md)
 
@@ -123,7 +123,7 @@ The rule is short enough to state exactly. A blocker stops a dropdown if it cove
 ## What this does not show
 
 - **It is not a legal opinion.** "Stops" means the clause, read as written, reaches the move. It does not mean a court would enforce it that way.
-- **No lawyer has reviewed the coding yet.** First-pass coding used language-model tools, and every call was checked by hand against the filing. A 20-contract audit sheet is ready in [`audit/`](audit/), and its results will be published whatever they show.
+- **No lawyer has reviewed the coding yet.** First-pass coding used AI tools, and every call was checked by hand against the filing. A 20-contract audit sheet is ready in [`audit/`](audit/), and its results will be published whatever they show.
 - **The dropdowns are the ones public reporting documents,** not a random sample.
 - **The sample is public-company filers.** Most dropdowns happen at sponsor-backed private borrowers, whose documents may differ.
 - **The keyword scan has a blind spot.** It cannot see a protection worded without the searched terms. Combining clauses can also over-credit protection. The two biases run in opposite directions.
@@ -167,6 +167,6 @@ Every one of the 91 rows quotes its clause and links to the filing on SEC EDGAR,
 }
 ```
 
-<sub>Document search, first-pass coding and editing used language-model tools (Claude, Anthropic); every coding call the results rely on was checked by hand against the filing. Code is MIT-licensed; data and text are CC BY 4.0. Contact: sauravsharma0369@gmail.com</sub>
+<sub>AI tools were used in preparing this work; every coding call the results rely on was checked by hand against the filing. Code is MIT-licensed; data and text are CC BY 4.0. Contact: sauravsharma0369@gmail.com</sub>
 
 [^noetica]: Noetica, *H1 2026 Capital Markets Radar Report*, as reported by Thomson Reuters. Noetica's figure covers the deals it tracks; it is cited here for context and is not a finding of this study.
